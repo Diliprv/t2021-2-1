@@ -11,7 +11,7 @@ public class NumberSeries1
     for(int i=1;i<=a;i++)
     {
       // Logic to print the Output
-      System.out.println(2*i-1",");
+      System.out.print(2*i-1",");
     }
   }
 }
